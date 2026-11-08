@@ -1,10 +1,10 @@
-# Keepers — Datenschutzerklärung
+# Samely — Datenschutzerklärung
 
 **Zuletzt aktualisiert: 7. November 2026**
 
 ## Kurz gesagt
 
-Keepers erhebt keine Daten. Deine Fotos, die daraus erstellten Analysen und wie du die App nutzt, werden nie von diesem Telefon versendet. Es gibt keinen Account, keine Werbung, keine Analysewerkzeuge und keine Software von Drittanbietern.
+Samely erhebt keine Daten. Deine Fotos, die daraus erstellten Analysen und wie du die App nutzt, werden nie von diesem Telefon versendet. Es gibt keinen Account, keine Werbung, keine Analysewerkzeuge und keine Software von Drittanbietern.
 
 ## Fotozugriff
 
@@ -12,7 +12,7 @@ Auf deine Mediathek wird nur zugegriffen, um ähnliche Fotos zu finden. Eine kle
 
 ## iCloud-Fotos
 
-Wenn dies in den Einstellungen aktiviert ist, lädt iOS kleine Versionen der Fotos, die nicht auf dem Telefon liegen, aus deinem iCloud-Fotos-Account – nur über Wi-Fi. Keepers verbindet sich dabei mit keinem eigenen Server.
+Wenn dies in den Einstellungen aktiviert ist, lädt iOS kleine Versionen der Fotos, die nicht auf dem Telefon liegen, aus deinem iCloud-Fotos-Account – nur über Wi-Fi. Samely verbindet sich dabei mit keinem eigenen Server.
 
 ## Ortsnamen
 

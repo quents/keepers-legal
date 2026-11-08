@@ -1,10 +1,10 @@
-# Keepers — Privacy Policy
+# Samely — Privacy Policy
 
 **Last updated: November 7, 2026**
 
 ## In short
 
-Keepers collects no data. Your photos, the analyses made from them and how you use the app are never sent off this phone. There is no account, no advertising, no analytics and no third-party software.
+Samely collects no data. Your photos, the analyses made from them and how you use the app are never sent off this phone. There is no account, no advertising, no analytics and no third-party software.
 
 ## Photo access
 
@@ -12,7 +12,7 @@ Your library is accessed only to find similar photos. A small copy of each photo
 
 ## iCloud photos
 
-If it's on in Settings, iOS downloads small versions of photos that have no copy on the phone from your iCloud Photos account, only while on Wi-Fi. Keepers doesn't connect to any server of its own while this happens.
+If it's on in Settings, iOS downloads small versions of photos that have no copy on the phone from your iCloud Photos account, only while on Wi-Fi. Samely doesn't connect to any server of its own while this happens.
 
 ## Place names
 

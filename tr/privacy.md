@@ -1,10 +1,10 @@
-# Keepers — Gizlilik politikası
+# Samely — Gizlilik politikası
 
 **Son güncelleme: 7 Kasım 2026**
 
 ## Kısaca
 
-Keepers hiçbir veri toplamaz. Fotoğrafların, onlardan çıkarılan analizler ve uygulamayı nasıl kullandığın bu telefondan dışarı gönderilmez. Hesap, reklam, analiz aracı ya da üçüncü taraf yazılım yoktur.
+Samely hiçbir veri toplamaz. Fotoğrafların, onlardan çıkarılan analizler ve uygulamayı nasıl kullandığın bu telefondan dışarı gönderilmez. Hesap, reklam, analiz aracı ya da üçüncü taraf yazılım yoktur.
 
 ## Fotoğraf erişimi
 
@@ -12,7 +12,7 @@ Kütüphanene yalnızca benzer fotoğrafları bulmak için erişilir. Her fotoğ
 
 ## iCloud fotoğrafları
 
-Ayarlar'da açıksa, telefonda kopyası olmayan fotoğrafların küçük hâlleri iOS tarafından senin iCloud Fotoğraflar hesabından, yalnızca Wi-Fi'deyken indirilir. Keepers bu sırada kendi adına hiçbir sunucuya bağlanmaz.
+Ayarlar'da açıksa, telefonda kopyası olmayan fotoğrafların küçük hâlleri iOS tarafından senin iCloud Fotoğraflar hesabından, yalnızca Wi-Fi'deyken indirilir. Samely bu sırada kendi adına hiçbir sunucuya bağlanmaz.
 
 ## Yer adları
 

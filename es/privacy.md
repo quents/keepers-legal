@@ -1,10 +1,10 @@
-# Keepers — Política de privacidad
+# Samely — Política de privacidad
 
 **Última actualización: 7 de noviembre de 2026**
 
 ## En pocas palabras
 
-Keepers no recopila ningún dato. Tus fotos, los análisis que se extraen de ellas y cómo usas la app nunca se envían fuera de este teléfono. No hay cuenta, publicidad, herramientas de analítica ni software de terceros.
+Samely no recopila ningún dato. Tus fotos, los análisis que se extraen de ellas y cómo usas la app nunca se envían fuera de este teléfono. No hay cuenta, publicidad, herramientas de analítica ni software de terceros.
 
 ## Acceso a fotos
 
@@ -12,7 +12,7 @@ Solo se accede a tu fototeca para encontrar fotos similares. Se examina una copi
 
 ## Fotos en iCloud
 
-Si está activado en Ajustes, iOS descarga versiones pequeñas de las fotos sin copia en el teléfono desde tu cuenta de Fotos en iCloud, solo por Wi-Fi. Keepers no se conecta a ningún servidor propio durante este proceso.
+Si está activado en Ajustes, iOS descarga versiones pequeñas de las fotos sin copia en el teléfono desde tu cuenta de Fotos en iCloud, solo por Wi-Fi. Samely no se conecta a ningún servidor propio durante este proceso.
 
 ## Nombres de lugares
 
